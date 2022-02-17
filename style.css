@@ -1,0 +1,38 @@
+
+
+body {
+    background-color: rgb(152, 166, 235);
+  }
+h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    background-color: black;
+    color: rgb(232, 243, 232);
+  }
+.clock {
+    
+    font-size: 100px;
+    background-color: rgb(181, 181, 211);
+    width: 350px;
+    border: 50px solid rgb(171, 231, 226);
+    padding: 75px;
+    margin: auto;
+    color:rgb(15, 36, 226);
+}
+
+.text {
+    
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    background-color: black;
+    color: rgb(232, 243, 232);
+}
+.timer {
+    font-size: 100px;
+    background-color: rgb(181, 181, 211);
+    width: 350px;
+    border: 50px solid rgb(171, 231, 226);
+    padding: 75px;
+    margin: auto;
+    color:rgb(226, 93, 15);
+}
